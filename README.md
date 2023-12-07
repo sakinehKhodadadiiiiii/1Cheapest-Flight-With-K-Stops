@@ -1,2 +1,2 @@
 # Cheapest-Flight-With-K-Stops
-There are n cities connected by some number of flights. You are given an array flights where flights[i] = [fromi, toi, pricei] indicates that there is a flight from city fromi to city toi with cost pricei. You are also given three integers src, dst, and k, return the cheapest price from src to dst with at most k stops. If there is no such route, return -1.
+There are n cities connected by some number of flights. You are given an array of flights where flights[i] = [from_i, to_i, price_i] indicates that there is a flight from city from_i to city toi with cost price_i. You are also given three integers src, dst, and k, and return the cheapest price from src to dst with at most k stops. If there is no such route, return -1.
